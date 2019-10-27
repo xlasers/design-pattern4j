@@ -64,6 +64,7 @@
         <module>proxy</module>
         <module>bridge</module>
         <module>composite</module>
+        <module>strategy</module>
     </modules>
 
     <dependencyManagement>
