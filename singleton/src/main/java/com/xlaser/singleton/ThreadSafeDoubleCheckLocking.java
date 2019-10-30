@@ -10,6 +10,9 @@ package com.xlaser.singleton;
  * @modified: Elijah.D
  */
 public final class ThreadSafeDoubleCheckLocking {
+    /**
+     * volatile 禁止cpu指令重排,禁用缓存,保证了最后new实例的原子性,防止NPE
+     */
     private static volatile ThreadSafeDoubleCheckLocking instance;
 
     private static boolean flag = true;
