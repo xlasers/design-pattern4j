@@ -24,7 +24,7 @@
         <h2.version>1.4.190</h2.version>
         <junit.version>4.12</junit.version>
         <junit-jupiter.version>5.0.2</junit-jupiter.version>
-        <junit-vintage.version>${junit.version}.2</junit-vintage.version>
+        <junit-vintage.version>5.5.2</junit-vintage.version>
         <junit-platform.version>1.0.2</junit-platform.version>
         <sping-test-junit5.version>1.0.2</sping-test-junit5.version>
         <compiler.version>3.0</compiler.version>
