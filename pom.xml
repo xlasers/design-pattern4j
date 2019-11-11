@@ -15,7 +15,7 @@
         <guava.version>25.0-jre</guava.version>
         <modelmapper.version>1.1.0</modelmapper.version>
         <lombok.version>1.18.10</lombok.version>
-        <fastjson.version>1.2.31</fastjson.version>
+        <fastjson.version>1.2.62</fastjson.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <hibernate.version>5.4.8.Final</hibernate.version>
         <spring.version>4.2.4.RELEASE</spring.version>
