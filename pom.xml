@@ -21,7 +21,7 @@
         <spring.version>4.2.4.RELEASE</spring.version>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <spring-data.version>1.9.2.RELEASE</spring-data.version>
-        <h2.version>1.4.190</h2.version>
+        <h2.version>1.4.200</h2.version>
         <junit.version>4.12</junit.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <junit-vintage.version>5.5.2</junit-vintage.version>
