@@ -17,7 +17,7 @@
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.62</fastjson.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <hibernate.version>5.4.8.Final</hibernate.version>
+        <hibernate.version>5.4.9.Final</hibernate.version>
         <spring.version>5.2.1.RELEASE</spring.version>
         <spring-boot.version>2.2.1.RELEASE</spring-boot.version>
         <spring-data.version>1.9.2.RELEASE</spring-data.version>
