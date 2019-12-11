@@ -7,10 +7,53 @@
 
 ### learning design patterns of java !
 
-#### source code: https://github.com/iluwatar/java-design-patterns
 
-###### Just simply copy the source code to learn, while retaining some original English comments will help us to understand the original intent of the code, please correct me if you have any questions!     
+###### Just simply copy the source code to learn, while retaining some original English comments will help us to understand the original intent of the code!     
+
+
+#### DONE LIST
+
+- Creational
+  - singleton
+
+- Behavioral
+  - strategy
+
+
+#### TODO LIST
+
+- Creational
+  - factory-method
+  - abstract-factory
+  - builder
+  - prototype
+  
+- Structural
+  - adapter
+  - decorator
+  - proxy
+  - facade
+  - bridge
+  - composite
+  - flyweight
+
+- Behavioral
+  - template-method
+  - observer
+  - iterator
+  - chain-of-responsibility
+  - command
+  - memento
+  - state
+  - visitor
+  - mediator
+  - interpreter  
+  
+
+#### Reference
+
+* [iluwatar](https://github.com/iluwatar/java-design-patterns)
+
          
-###### smiley face: Thanks to the author of this git repository: iluwatar(Ilkka Seppälä) !         
          
          
