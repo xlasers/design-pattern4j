@@ -50,18 +50,8 @@
     </properties>
 
     <modules>
-        <module>singleton</module>
-        <module>builder</module>
-        <module>prototype</module>
-        <module>abstract-factory</module>
-        <module>factory-method</module>
-        <module>adapter</module>
-        <module>decorator</module>
-        <module>facade</module>
-        <module>proxy</module>
-        <module>bridge</module>
-        <module>composite</module>
-        <module>strategy</module>
+        <module>creational</module>
+        <module>behavioral</module>
     </modules>
 
     <dependencyManagement>
