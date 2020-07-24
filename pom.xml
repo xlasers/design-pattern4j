@@ -11,7 +11,7 @@
     <inceptionYear>2018</inceptionYear>
 
     <properties>
-        <hutool-all.version>5.0.5</hutool-all.version>
+        <hutool-all.version>5.3.10</hutool-all.version>
         <guava.version>28.1-jre</guava.version>
         <modelmapper.version>2.3.5</modelmapper.version>
         <lombok.version>1.18.10</lombok.version>
