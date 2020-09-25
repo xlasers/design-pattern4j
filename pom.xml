@@ -32,7 +32,7 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <camel.version>2.24.2</camel.version>
         <guava.version>19.0</guava.version>
-        <mockito.version>3.1.0</mockito.version>
+        <mockito.version>3.5.13</mockito.version>
         <apache-httpcomponents.version>4.5.10</apache-httpcomponents.version>
         <htmlunit.version>2.36.0</htmlunit.version>
         <guice.version>4.2.2</guice.version>
