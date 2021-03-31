@@ -12,7 +12,7 @@
 
     <properties>
         <hutool-all.version>5.0.5</hutool-all.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <modelmapper.version>2.3.5</modelmapper.version>
         <lombok.version>1.18.10</lombok.version>
         <fastjson.version>1.2.62</fastjson.version>
